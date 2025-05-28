@@ -61,11 +61,11 @@ Detect `door` and `window` symbols from architectural blueprints using a custom-
 
 | Task | Screenshot |
 |------|------------|
-| Labeling | <img src="assets/labelImg_1.jpg" width="250"/> <img src="assets/labelImg_2.jpg" width="250"/> <img src="assets/label.jpg" height="120" width="250"/> |
+| Labeling | <img src="assets/labelImg_1.jpg" width="250"/> <img src="assets/labelImg_2.jpg" width="250"/>|
 | Training Console | <img src="assets/model.jpg" width="250"/> <img src="assets/output_1.jpg" width="250" height="143"/> <img src="assets/output_2.jpg" width="250" height="143"/> |
 | Visualisation | <img src="assets/palcode_loss_metrics_graphs.png" width="250" height="150"/> <img src="assets/F1_curve.png" width="250" height="150"/> <img src="assets/PR_curve.png" width="250" height="150"/> |
 | Deployment | <img src="assets/hf_interface.jpg" width="250" height="143"/> <img src="assets/fastapi_localhost.jpg" width="250" height="143"/> <img src="assets/fastapi_docs.jpg" width="250" height="143"/> |
-| Curl Request | <img src="assets/curl_request.jpg" width="250" height="150"/> |
+| Curl Request | <img src="assets/curl_request.jpg" width="250" height="110"/> |
 
 ---
 
