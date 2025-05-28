@@ -2,3 +2,12 @@ ultralytics
 gradio
 pillow
 numpy
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python
+torch
+torchvision
+matplotlib
+labelImg
+pyyaml
