@@ -90,7 +90,7 @@ Detect `door` and `window` symbols from architectural blueprints using a custom-
 
 ## 🎥 Demonstration Video
 
-[Watch the walkthrough](https://www.loom.com/share/your-video-id)
+[Watch the walkthrough](https://www.loom.com/share/5a36e3d963684283a9a2ac62347e1eda?sid=64396229-f6e3-48e6-ae0b-a53a718706fd)
 
 ---
 
